@@ -1,0 +1,13 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+
+    background: #EEE8D5;
+}
+
+#display {
+    position: fixed;
+    float: left;
+}
